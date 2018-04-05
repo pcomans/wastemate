@@ -1,1 +1,1 @@
-dart v1.dart | say
+dart v1.dart yolobeans | say

@@ -1,7 +1,7 @@
 import "recology.dart";
 
-void main() {
-  print(whereToPut("coffee grounds"));
+void main(List<String> args) {
+  print(whereToPut(args.first));
 }
 
 List<String> matchStruct(String itemName, List<Map<String, dynamic>> structs) {
