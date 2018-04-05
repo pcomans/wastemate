@@ -330,7 +330,7 @@ List<Map<String, dynamic>> recycling = [
   },
   {
     "terms": [
-      "Empty, clean coffee cups",
+      "paper cups", "coffee cups",
     ],
     "desc": "Empty, clean coffee cups",
   },
